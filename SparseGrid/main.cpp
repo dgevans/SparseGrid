@@ -7,6 +7,8 @@
 //
 
 #include <iostream>
+#include "Chebyshev.h"
+#include "SparseGrid.h"
 
 int main(int argc, const char * argv[])
 {
